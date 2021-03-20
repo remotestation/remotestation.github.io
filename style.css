@@ -1,0 +1,60 @@
+
+/* 
+    Created on : Nov 8, 2020, 6:31:25 PM
+    Author     : Seumx Plus
+*/
+
+.body {
+    background-color: green;
+    font-family: Century GOTHIC;
+    color: white;
+    font-size: 31px;
+    border-radius: 0px 23px 0px 23px;
+}
+
+.normal {
+    background-color: white;
+    font-family: Century GOTHIC;
+    color: black;
+    font-size: 18px;
+    border-color: dodgerblue;
+    border-width: 13px;
+    border-radius: 0px 7px 0px 7px;
+}
+
+.btn {
+    background-color: green;
+    font-family: Century GOTHIC;
+    color: white;
+    font-size: 18px;
+    padding-right: 78px;
+    padding-left: 78px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    
+    border-color: slategrey;
+    border-width: 0px;
+    border-radius: 8px 8px 8px 8px;
+}
+
+.btn:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.foot {
+    background-color: black;
+    font-family: Century GOTHIC;
+    color: white;
+    font-size: 21px;
+    border-color: lightsteelblue;
+    border-width: 13px;
+    border-radius: 0px 7px 0px 7px;
+}
+
+.head {
+    background-color: green;
+    font-family: COPPERPLATE GOTHIC;
+    color: white;
+    font-size: 28px;
+}
